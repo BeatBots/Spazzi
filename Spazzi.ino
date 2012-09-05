@@ -1,6 +1,6 @@
 /*
 Spazzi (TM) Arduino code
-http://beatbots.net/project/spazzi
+http://spazzi.beatbots.net
 Marek Michalowski, BeatBots
 (c) 2011 under GPLv3
 */
